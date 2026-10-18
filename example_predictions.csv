@@ -1,0 +1,11 @@
+Message,Actual Label,Predicted Label,Spam Probability (%),Confidence (%)
+"Good morning, my Love ... I go to sleep now and wish you a great day full of feeling better and opportunity ... You are my last thought babe, I LOVE YOU *kiss*",Ham,Ham,0.18,99.82
+"And how you will do that, princess? :)",Ham,Ham,0.1,99.9
+Nope. Meanwhile she talk say make i greet you.,Ham,Ham,0.94,99.06
+Designation is software developer and may be she get chennai:),Ham,Ham,1.09,98.91
+Aiya we discuss later lar... Pick Ì_ up at 4 is it?,Ham,Ham,0.11,99.89
+"Piggy, r u awake? I bet u're still sleeping. I'm going 4 lunch now...",Ham,Ham,0.1,99.9
+S but not able to sleep.,Ham,Ham,0.14,99.86
+Yes. Please leave at  &lt;#&gt; . So that at  &lt;#&gt;  we can leave,Ham,Ham,0.02,99.98
+hi baby im sat on the bloody bus at the mo and i wont be home until about 7:30 wanna do somethin later? call me later ortxt back jess xx,Ham,Ham,0.04,99.96
+Yup... Hey then one day on fri we can ask miwa and jiayin take leave go karaoke ,Ham,Ham,0.02,99.98
